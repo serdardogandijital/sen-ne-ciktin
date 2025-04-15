@@ -8,5 +8,41 @@
       "power": "Görünmez izleme",
       "level": 1
     }
+  ],
+  "Mesleki": [
+    {
+      "name": "Ajans Junior",
+      "icon": "🧑‍💻",
+      "description": "Briefle yaşar.",
+      "power": "Son dakikacı",
+      "level": 1
+    }
+  ],
+  "Gündelik": [
+    {
+      "name": "Teyze Tracker",
+      "icon": "🧕",
+      "description": "Mahallede olup biteni bilir.",
+      "power": "Stalk +1",
+      "level": 1
+    }
+  ],
+  "Sürreal": [
+    {
+      "name": "Zaman Yolcusu",
+      "icon": "⏳",
+      "description": "Her an başka bir alemde.",
+      "power": "Gece 3:33'te aktifleşir",
+      "level": 1
+    }
+  ],
+  "Mini Ego": [
+    {
+      "name": "Like Avcısı",
+      "icon": "🔥",
+      "description": "Beğeni için yaşar.",
+      "power": "Algoritma dostu",
+      "level": 1
+    }
   ]
 }

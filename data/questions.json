@@ -3,7 +3,19 @@
   {
     "question": "Sabah ilk yaptığın şey nedir?",
     "options": [
-      { "answer": "Bildirimlere bakarım", "class": "Dijital" }
+      { "answer": "Bildirimlere bakarım", "class": "Dijital" },
+      { "answer": "Kahveyle başlarım", "class": "Gündelik" },
+      { "answer": "Explore’a dalarım", "class": "Mini Ego" },
+      { "answer": "Hatırlamıyorum", "class": "Sürreal" }
+    ]
+  },
+  {
+    "question": "İnstagram’da en çok ne yaparsın?",
+    "options": [
+      { "answer": "Story izlerim", "class": "Dijital" },
+      { "answer": "Her şeyi beğenirim", "class": "Mini Ego" },
+      { "answer": "DM atarım", "class": "Mesleki" },
+      { "answer": "Saatlerce bakarım ama bir şey yapmam", "class": "Sürreal" }
     ]
   }
 ]
